@@ -4,6 +4,8 @@ Create 4 pgsql databases:
 - marten.json.fsstj
 - marten.json.fsstj-custom
 
+Put your pgsql credentials in Constants.fs
+
 run `dotnet test`
 
 
